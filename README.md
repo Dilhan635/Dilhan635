@@ -9,8 +9,7 @@ Adaptable and proactive in agile environments, with a strong foundation in scrip
 Looking for a position within the industry to contribute fresh ideas, grow within a collaborative studio, and help bring compelling player experiences to life.
 
 ## Skills
--C++
--Unreal Engine
--Blueprints
--C#
--Unity
+**Languages:** C++, C#
+**Engines:** Unreal including Blueprints, Unity
+**Version Control:** Git, Perforce
+**Concepts:** Game Design, Game Mechanics, UI design and implementation
