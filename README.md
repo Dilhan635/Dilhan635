@@ -9,7 +9,7 @@ Adaptable and proactive in agile environments, with a strong foundation in scrip
 Looking for a position within the industry to contribute fresh ideas, grow within a collaborative studio, and help bring compelling player experiences to life.
 
 ## Skills
-# **Languages:**![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b), ![C#](https://img.shields.io/badge/C%23-green?logo=csharp)
-# **Engines:** ![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-black?logo=unrealengine), ![Unity](https://img.shields.io/badge/Unity-grey?logo=unity)
-# **Version Control:** ![Git](https://img.shields.io/badge/Git-orange?logo=git), Perforce
-# **Concepts:** Game Design, Game Mechanics, UI design and implementation
+#### **Languages:** ![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b), ![C#](https://img.shields.io/badge/C%23-green?logo=csharp)
+#### **Engines:** ![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-black?logo=unrealengine), ![Unity](https://img.shields.io/badge/Unity-grey?logo=unity)
+#### **Version Control:** ![Git](https://img.shields.io/badge/Git-orange?logo=git), ![Perforce](https://img.shields.io/badge/Perforce-0055A4?logo=perforce&logoColor=white)
+#### **Concepts:** Game Design, Game Mechanics, UI design and implementation
