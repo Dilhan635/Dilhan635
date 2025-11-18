@@ -16,3 +16,7 @@ Looking for a position within the industry to contribute fresh ideas, grow withi
 **Version Control:** ![Git](https://img.shields.io/badge/Git-orange?logo=git), ![Perforce](https://img.shields.io/badge/Perforce-0055A4?logo=perforce&logoColor=white)
 
 **Concepts:** Game Design, Game Mechanics, UI design and implementation
+
+## Featured Project
+- [Text-Based RPG Game Demo](https://github.com/Dilhan635/Text-Based-RPG-Game-Demo.git)
+  An open-world C++ console RPG (WIP).
