@@ -18,5 +18,5 @@ Looking for a position within the industry to contribute fresh ideas, grow withi
 **Concepts:** Game Design, Game Mechanics, UI design and implementation
 
 ## Featured Project
-- [Text-Based RPG Game Demo](https://github.com/Dilhan635/Text-Based-RPG-Game-Demo.git)
-  An open-world C++ console RPG (WIP).
+- [Unreal Engine 5 Renamer Plugin](https://github.com/Dilhan635/Renamer-Plugin)
+Scans your project for assets with incorrect naming conventions and automatically assigns them the correct prefix for their respective file type.
