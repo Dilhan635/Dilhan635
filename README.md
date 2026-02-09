@@ -15,7 +15,7 @@ Looking for a position within the industry to contribute fresh ideas, grow withi
 
 **Version Control:** ![Git](https://img.shields.io/badge/Git-orange?logo=git), ![Perforce](https://img.shields.io/badge/Perforce-0055A4?logo=perforce&logoColor=white)
 
-**Concepts:** Game Design, Game Mechanics, UI design and implementation
+**Concepts:** Game Design, Game Mechanics, Tools, UI design and implementation
 
 ## Featured Project
 - [Unreal Engine 5 Renamer Plugin](https://github.com/Dilhan635/Renamer-Plugin)
